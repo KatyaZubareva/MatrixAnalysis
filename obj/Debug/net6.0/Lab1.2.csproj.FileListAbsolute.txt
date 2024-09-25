@@ -1,0 +1,15 @@
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/bin/Debug/net6.0/Lab1.2
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/bin/Debug/net6.0/Lab1.2.deps.json
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/bin/Debug/net6.0/Lab1.2.runtimeconfig.json
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/bin/Debug/net6.0/Lab1.2.dll
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/bin/Debug/net6.0/Lab1.2.pdb
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.csproj.AssemblyReference.cache
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.AssemblyInfoInputs.cache
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.AssemblyInfo.cs
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.csproj.CoreCompileInputs.cache
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.dll
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/refint/Lab1.2.dll
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.pdb
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/Lab1.2.genruntimeconfig.cache
+/Users/katyazubareva/Desktop/ПРОГА/C#/Lab1.2/obj/Debug/net6.0/ref/Lab1.2.dll
